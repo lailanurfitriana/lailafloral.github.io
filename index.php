@@ -3,7 +3,7 @@
 <head>
     <link rel="stylesheet" type="text/css" href="desain.css">
 
-</head>
+
 <title>FLORAL</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -284,6 +284,6 @@ function likeFunction(x) {
   x.innerHTML = "✓ Liked";
 }
 </script>
-
+</head>
 </body>
 </html>
